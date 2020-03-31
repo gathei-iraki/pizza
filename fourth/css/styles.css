@@ -1,0 +1,24 @@
+body {
+    background-image: url("../pics/Diario\ di\ uno\ Spartano\ per\ bene_.gif");
+    background-repeat: no-repeat;
+   width: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#text{
+    font-family: 'Permanent Marker', cursive;
+  font-size: x-large;
+  color:white;
+  background-color: black;
+  opacity: 0.4;
+  text-align: center;
+  }
+ #link{
+    font-family: 'Permanent Marker', cursive;
+  font-size: x-large;
+  color:white;
+  font-weight: bolder;
+  opacity: 0.6;
+  text-align: center;
+  }
+ 
