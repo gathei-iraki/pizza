@@ -1,0 +1,20 @@
+body {
+    background-image: url("../cool/18\ Things\ That\ Instantly\ Make\ Boys\ A\ Million\ Times\ Hotter\ For\ No\ Reason.gif");
+    background-repeat: no-repeat;
+    width: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  #text{
+    font-family: 'Amatic SC', cursive;
+    color:white;
+    text-align: center;
+    font-size: 440%;
+  }
+  #link{
+    font-family: 'Amatic SC', cursive;
+    text-align: center;
+    font-weight:bolder;
+    font-size: 300%;
+    color:white;
+  }
